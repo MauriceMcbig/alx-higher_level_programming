@@ -1,1 +1,1 @@
-READE ME 0x06-python-classes
+READE ME 0x05-python-exceptions
